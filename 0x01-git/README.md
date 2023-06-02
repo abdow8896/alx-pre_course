@@ -1,1 +1,1 @@
-“my second commit”
+my fisrt readme
